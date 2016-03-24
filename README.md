@@ -24,4 +24,4 @@ Please take some time to view it.
 
 Enjoy!
 
-::Assests and images are under copyright of Colin Hite. Please reframe from duplicating any documents outside of cloning the repository. Thank you::
+::Assests and images are under copyright of Colin Hite. Please reframe from duplicating any documents outside of cloning the repository. Thank you:::
